@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/a-bitter-parent/static/css/main.95196269.chunk.css",
+    "main.js": "/a-bitter-parent/static/js/main.e64a86f7.chunk.js",
+    "main.js.map": "/a-bitter-parent/static/js/main.e64a86f7.chunk.js.map",
+    "runtime-main.js": "/a-bitter-parent/static/js/runtime-main.195d2467.js",
+    "runtime-main.js.map": "/a-bitter-parent/static/js/runtime-main.195d2467.js.map",
+    "static/js/2.eb0f5bb4.chunk.js": "/a-bitter-parent/static/js/2.eb0f5bb4.chunk.js",
+    "static/js/2.eb0f5bb4.chunk.js.map": "/a-bitter-parent/static/js/2.eb0f5bb4.chunk.js.map",
+    "index.html": "/a-bitter-parent/index.html",
+    "precache-manifest.740b7a5ed1a0c354f5e0a3e6f8ac56b7.js": "/a-bitter-parent/precache-manifest.740b7a5ed1a0c354f5e0a3e6f8ac56b7.js",
+    "service-worker.js": "/a-bitter-parent/service-worker.js",
+    "static/css/main.95196269.chunk.css.map": "/a-bitter-parent/static/css/main.95196269.chunk.css.map",
+    "static/js/2.eb0f5bb4.chunk.js.LICENSE.txt": "/a-bitter-parent/static/js/2.eb0f5bb4.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/a-bitter-parent/static/media/01d35212.47d11b6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.195d2467.js",
+    "static/js/2.eb0f5bb4.chunk.js",
+    "static/css/main.95196269.chunk.css",
+    "static/js/main.e64a86f7.chunk.js"
+  ]
+}

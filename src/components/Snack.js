@@ -5,8 +5,8 @@ class Snack extends Component {
   render() {
     return (
       <Fragment>
-        <form>
-          <label htmlFor="foodMenu">Select what you would Like</label>
+        <form className="animate">
+          <label htmlFor="foodMenu">Select your snack</label>
           <select id="foodMenu" onChange={this.props.handleChange} defaultValue>
           <option disabled value>
               Choose your food

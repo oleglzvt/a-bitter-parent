@@ -5,8 +5,8 @@ class Lunch extends Component {
   render() {
     return (
       <Fragment>
-        <form className="foodSelector">
-          <label htmlFor="foodMenu">Select what you would Like</label>
+        <form className="foodSelector animate">
+          <label htmlFor="foodMenu">Select your lunch</label>
           <select id="foodMenu" onChange={this.props.handleChange} defaultValue>
           <option disabled value>
               Choose your food
